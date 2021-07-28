@@ -1,0 +1,5 @@
+Debug/
+bin/
+obj/
+/build/
+*.dll
